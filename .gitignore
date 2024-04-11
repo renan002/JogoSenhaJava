@@ -1,0 +1,5 @@
+/.ideia/*
+out/
+/.idea/modules.xml
+/.idea/uiDesigner.xml
+/.idea/vcs.xml
